@@ -14,4 +14,4 @@ How to use the hacks:
 
 # (NOT RESPONSIBLE FOR HOW YOU USE THE HACKS!!!)
 
-<sup><sub>Credits: rxzyx + therealgliz</sub></sup>
+<sub><sup><sub>Credits: rxzyx + therealgliz</sub></sup></sub>

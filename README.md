@@ -2,7 +2,7 @@
 crazy good blooket hacks
 
 ## Features:
-- Default Scripts:
+- Main Hacks:
     - <a href="https://github.com/e1du/Blooket-Hacks/blob/main/Main-Hacks/Add-Tokens-And-XP.js">Add Tokens and XP</a> - Collect the maximum Tokens and XP currently availible.
 
 

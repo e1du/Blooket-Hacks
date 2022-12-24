@@ -13,3 +13,5 @@ How to use the hacks:
     - <a href="https://github.com/e1du/Blooket-Hacks/blob/main/Main-Hacks/Tampermonkey-Anti-ban">Tampermonkey Anti-ban</a> - Permanent Anti-ban (Probably the best!)
 
 # (NOT RESPONSIBLE FOR HOW YOU USE THE HACKS!!!)
+
+<sup><sub>Credits: rxzyx + therealgliz</sub></sup>
